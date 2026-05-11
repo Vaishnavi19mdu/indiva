@@ -1,0 +1,393 @@
+REVISION INSTRUCTIONS FOR THE EXISTING INDIVA FIGMA DESIGN SYSTEM:
+
+The current concept should NO LONGER behave like a single scrolling landing page. Redesign the product architecture into a realistic multi-page premium social impact platform with proper navigation, page hierarchy, mobile responsiveness, and production-grade UX patterns.
+
+The overall aesthetic, color palette, typography, and emotional storytelling direction should remain the same:
+
+* Apple-inspired minimalism
+* Airbnb warmth
+* Editorial storytelling
+* Calm premium nonprofit experience
+
+KEEP:
+
+* Manrope typography
+* Indigo palette (#71648C primary)
+* Powdered Sugar backgrounds
+* Rounded rectangular buttons
+* Soft shadows
+* Premium whitespace
+* Emotional storytelling
+* Connected Embrace logo direction
+
+NEW PRODUCT ARCHITECTURE:
+
+The platform should feel like:
+
+* a real funded startup
+* production-ready
+* thoughtfully structured
+* emotionally immersive
+
+NOT:
+
+* a giant one-page portfolio
+* a Dribbble-style scrolling concept
+* an animation showcase
+
+REVISED PAGE STRUCTURE:
+
+1. HOME PAGE
+   Purpose:
+   Emotional introduction and high-level storytelling.
+
+Sections:
+
+* Floating premium navbar
+* Hero section
+* Mission section
+* Featured programs
+* “A Day With Them” storytelling preview
+* Impact statistics preview
+* Volunteer CTA
+* Donation CTA
+* Elegant footer
+
+Do NOT overload this page with every novelty feature.
+
+HOME PAGE HERO:
+Headline:
+“Compassion should grow with age, not fade.”
+
+CTA Buttons:
+
+* Support a Senior
+* Explore Programs
+
+Visual Direction:
+
+* emotional elderly portrait
+* soft indigo ambient glow
+* floating impact cards
+* calm cinematic composition
+
+2. PROGRAMS PAGE
+   Dedicated page for exploring initiatives.
+
+Include:
+
+* premium program grid
+* category filters
+* search interaction
+* funding progress
+* impact metrics
+* hover interactions
+* featured stories
+
+Programs:
+
+* Home Visits
+* Wellness Support
+* Nutrition Assistance
+* Emergency Care
+* Therapy Circles
+* Community Gatherings
+
+CARD STYLE:
+
+* soft elevated surfaces
+* muted gradients
+* rounded corners
+* premium shadows
+* calm hover transitions
+
+3. PROGRAM DETAIL PAGE
+   Dynamic route structure:
+   Example:
+
+* /programs/home-visits
+
+Purpose:
+Deep immersive storytelling.
+
+Include:
+
+* cinematic hero banner
+* emotional problem explanation
+* timeline interaction
+* testimonials
+* gallery
+* impact statistics
+* sticky donation widget
+* related programs
+
+STICKY DONATION WIDGET:
+Include:
+
+* preset donation amounts
+* recurring toggle
+* live impact preview
+* premium minimal styling
+
+4. COMMUNITY PAGE
+   This becomes the emotional interactive hub of INDIVA.
+
+Move all novelty experiences here.
+
+Sections:
+
+* Community Hero
+* “Letters Across Generations”
+* “Send Warmth”
+* “Impact Ripple”
+* “Memory Garden”
+
+NOVELTY FEATURE 1:
+“Letters Across Generations”
+
+Elegant floating message cards exchanged between:
+
+* seniors
+* volunteers
+* children
+
+Design:
+
+* emotional
+* minimal
+* soft-glass cards
+* warm typography
+* floating layout
+
+NOVELTY FEATURE 2:
+“Send Warmth”
+
+Users can submit short supportive messages.
+
+Messages animate into:
+
+* floating message wall
+* emotional feed
+* calm interactive layout
+
+Frontend-only interaction is acceptable.
+
+NOVELTY FEATURE 3:
+“Impact Ripple”
+
+Interactive ripple visualization showing how donations spread through communities.
+
+Visual Direction:
+
+* glowing indigo nodes
+* ripple animations
+* connected network aesthetic
+* premium motion graphics
+
+NOVELTY FEATURE 4:
+“Memory Garden”
+
+Every donation symbolically plants:
+
+* glowing flowers
+* lanterns
+* leaves
+* gentle light particles
+
+Visual Mood:
+
+* dreamy
+* emotional
+* minimal
+* atmospheric
+
+5. DONATE PAGE
+   Dedicated frictionless donation experience.
+
+Layout:
+LEFT:
+
+* emotional storytelling
+* transparency metrics
+* trust indicators
+
+RIGHT:
+
+* donation form
+* recurring support toggle
+* preset donation chips
+* custom amount
+* dedication note
+
+LIVE IMPACT CALCULATOR:
+Example:
+₹1000 = 2 wellness visits + medicine assistance
+
+SUCCESS STATE:
+Elegant confirmation modal:
+“You made someone smile today.”
+
+6. VOLUNTEER PAGE
+   Dedicated onboarding flow.
+
+Purpose:
+Make the platform feel realistic and production-ready.
+
+Use:
+
+* multi-step onboarding UX
+* premium form interactions
+* calm welcoming layout
+
+FLOW:
+Step 1:
+Introduction
+
+Step 2:
+Personal Information
+Fields:
+
+* Full Name
+* Age
+* Date of Birth
+* Gender
+* Phone Number
+* City
+* Email
+
+Step 3:
+Interests & Skills
+Examples:
+
+* companionship
+* reading assistance
+* wellness visits
+* technology support
+
+Step 4:
+Availability
+
+Step 5:
+Optional Identity Verification Upload
+
+UPLOAD UI:
+Elegant drag-and-drop component.
+
+Do NOT make the experience feel bureaucratic or government-heavy.
+
+MOBILE EXPERIENCE REQUIREMENTS:
+
+The mobile version must feel:
+
+* spacious
+* premium
+* calm
+* clean
+* uncluttered
+
+Avoid:
+
+* ugly divider lines
+* cramped layouts
+* heavy borders
+* stacked chaos
+
+MOBILE NAVIGATION:
+Use:
+
+* premium slide-over drawer navigation
+* soft blur overlay
+* rounded drawer corners
+* large tap targets
+* generous spacing
+
+DO NOT use:
+
+* accordion-style messy navigation
+* harsh separators
+* cheap divider lines
+
+DESKTOP NAVBAR:
+Structure:
+INDIVA logo on left
+
+Navigation:
+
+* Home
+* Programs
+* Community
+* Impact
+* Volunteer
+* Donate
+
+Right Side:
+
+* Sign In
+* Donate Now CTA
+
+NAVBAR STYLE:
+
+* floating
+* translucent
+* subtle blur
+* soft border
+* rounded corners
+
+RESPONSIVE DESIGN REQUIREMENTS:
+
+Desktop:
+
+* editorial spacing
+* cinematic layouts
+* asymmetric compositions
+
+Tablet:
+
+* adaptive grids
+* preserved whitespace
+
+Mobile:
+
+* stacked layouts
+* one-column cards
+* full-width buttons
+* large touch targets
+* reduced visual clutter
+
+SECTION SPACING:
+Mobile:
+72px vertical spacing
+
+Desktop:
+120px vertical spacing
+
+ANIMATION DIRECTION:
+Use:
+
+* subtle premium motion
+* fade reveals
+* floating interactions
+* smooth counters
+* ripple animations
+* cinematic transitions
+* calm parallax
+
+Avoid:
+
+* flashy effects
+* neon visuals
+* aggressive motion
+* over-animation
+
+FINAL EXPERIENCE GOAL:
+
+The redesigned INDIVA platform should feel like a real premium social-impact startup product with:
+
+* thoughtful information architecture
+* emotionally immersive storytelling
+* realistic multi-page UX
+* clean navigation
+* exceptional mobile responsiveness
+* premium minimalist aesthetics
+* meaningful interactive experiences
+* production-grade polish
